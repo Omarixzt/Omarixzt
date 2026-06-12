@@ -102,14 +102,6 @@ Operating as an independent technical contractor, designing and deploying produc
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omarixzt&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
